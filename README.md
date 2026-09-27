@@ -126,7 +126,7 @@ My goal is that one day my code will help the world, and that I will evolve as a
 ### 📫 Contact<div align="left">
 
 
-  <a href="https://github.com/davidteixeira23" target="_blank">
+  <a href="https://github.com/davidpedreira23" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://www.linkedin.com/in/david-teixeira-b39b65408/?skipRedirect=true" target="_blank">
