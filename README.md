@@ -21,13 +21,8 @@ My goal is that one day my code will help the world, and that I will evolve as a
 
 ---
 
-### 📂 Projetos em Destaque
-![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=davidpedreira23&layout=compact&theme=radical)
-### 📊 Estatísticas do GitHub
-https://github-readme-stats.vercel.app/api/top-langs/?username=davidpedreira23&layout=compact&theme=dark&hide_border=true
-### 📫 Como me encontrar
 
-Se quiser conversar sobre tecnologia, tirar dúvidas ou acompanhar meus projetos, sinta-se à vontade para entrar em contato:
+![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=davidpedreira23&layout=compact&theme=radical)
 
 <div align="left">
   <a href="https://github.com/davidteixeira23" target="_blank">
@@ -42,5 +37,4 @@ Se quiser conversar sobre tecnologia, tirar dúvidas ou acompanhar meus projetos
 </div>
 
 <br />
-
-> "De que serve ao homem conquistar o mundo inteiro se perder a alma?"
+" What good will it be for a man if he gains the whole world, yet forfeits his soul? "
