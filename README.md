@@ -110,7 +110,7 @@ My goal is that one day my code will help the world, and that I will evolve as a
 
 <td align="center" width="180">
 <br>
-<img src="https://raw.githubusercontent.com/espressif/arduino-esp32/master/docs/source/_static/esp32.png" width="50"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/ESP32_Espressif_ESP-WROOM-32_Dev_Board.jpg" width="50"/>
 <br><br>
 <b>ESP32</b>
 <br>
