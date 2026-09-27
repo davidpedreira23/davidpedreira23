@@ -110,9 +110,7 @@ My goal is that one day my code will help the world, and that I will evolve as a
 
 <td align="center" width="180">
 <br>
-<img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/ESP32_Espressif_ESP-WROOM-32_Dev_Board.jpg" width="50"/>
-<br><br>
-<b>ESP32</b>
+<img src="https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white" width="120"/><b>ESP32</b>
 <br>
 <sub>IoT & Hardware</sub>
 <br><br>
