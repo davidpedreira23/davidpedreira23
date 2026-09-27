@@ -16,7 +16,7 @@ My goal is that one day my code will help the world, and that I will evolve as a
 
 <td align="center" width="180">
 <br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="70"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="50"/>
 <br><br>
 <b>Arduino</b>
 <br>
@@ -26,7 +26,7 @@ My goal is that one day my code will help the world, and that I will evolve as a
 
 <td align="center" width="180">
 <br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="70"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50"/>
 <br><br>
 <b>Java</b>
 <br>
@@ -36,7 +36,7 @@ My goal is that one day my code will help the world, and that I will evolve as a
 
 <td align="center" width="180">
 <br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="70"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50"/>
 <br><br>
 <b>C++</b>
 <br>
@@ -46,7 +46,7 @@ My goal is that one day my code will help the world, and that I will evolve as a
 
 <td align="center" width="180">
 <br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="70"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50"/>
 <br><br>
 <b>MySQL</b>
 <br>
@@ -56,7 +56,7 @@ My goal is that one day my code will help the world, and that I will evolve as a
 
 <td align="center" width="180">
 <br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="70"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50"/>
 <br><br>
 <b>PHP</b>
 <br>
@@ -68,8 +68,6 @@ My goal is that one day my code will help the world, and that I will evolve as a
 </table>
 
 </div>
-
-
 
 <div align="left">
   <a href="https://github.com/davidteixeira23" target="_blank">
