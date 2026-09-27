@@ -100,17 +100,17 @@ My goal is that one day my code will help the world, and that I will evolve as a
 
 <td align="center" width="180">
 <br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqldeveloper/sqldeveloper-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netbeans/netbeans-original.svg" width="50"/>
 <br><br>
-<b>SQL</b>
+<b>NetBeans</b>
 <br>
-<sub>Database</sub>
+<sub>IDE</sub>
 <br><br>
 </td>
 
 <td align="center" width="180">
 <br>
-<img src="https://raw.githubusercontent.com/espressif/espressif-ide/master/espressif-ide-feature/resources/espressif.svg" width="50"/>
+<img src="https://raw.githubusercontent.com/espressif/arduino-esp32/master/docs/source/_static/esp32.png" width="50"/>
 <br><br>
 <b>ESP32</b>
 <br>
@@ -122,7 +122,6 @@ My goal is that one day my code will help the world, and that I will evolve as a
 </table>
 
 </div>
-
 <div align="left">
   <a href="https://github.com/davidteixeira23" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
