@@ -65,6 +65,60 @@ My goal is that one day my code will help the world, and that I will evolve as a
 </td>
 
 </tr>
+
+<tr>
+
+<td align="center" width="180">
+<br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="50"/>
+<br><br>
+<b>Kotlin</b>
+<br>
+<sub>Programming</sub>
+<br><br>
+</td>
+
+<td align="center" width="180">
+<br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/>
+<br><br>
+<b>JavaScript</b>
+<br>
+<sub>Web Development</sub>
+<br><br>
+</td>
+
+<td align="center" width="180">
+<br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50"/>
+<br><br>
+<b>Figma</b>
+<br>
+<sub>UI/UX Design</sub>
+<br><br>
+</td>
+
+<td align="center" width="180">
+<br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50"/>
+<br><br>
+<b>SQL</b>
+<br>
+<sub>Database</sub>
+<br><br>
+</td>
+
+<td align="center" width="180">
+<br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/espressif/espressif-original.svg" width="50"/>
+<br><br>
+<b>ESP32</b>
+<br>
+<sub>IoT & Hardware</sub>
+<br><br>
+</td>
+
+</tr>
 </table>
 
 </div>
