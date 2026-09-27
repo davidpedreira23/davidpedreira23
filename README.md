@@ -15,109 +15,193 @@ My goal is that one day my code will help the world, and that I will evolve as a
 <table>
 <tr>
 
-<td align="center" width="160">
-<h3>💻</h3>
-<b>Programming</b><br><br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="60"/><br><br>
+<td align="center" width="170">
+<br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="65"/>
+<br><br>
 <b>C++</b>
+<br>
+<sub>Programming</sub>
+<br><br>
 </td>
 
-<td align="center" width="160">
-<h3>☕</h3>
-<b>Programming</b><br><br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60"/><br><br>
+<td align="center" width="170">
+<br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="65"/>
+<br><br>
 <b>Java</b>
+<br>
+<sub>Programming</sub>
+<br><br>
 </td>
 
-<td align="center" width="160">
-<h3>🟣</h3>
-<b>Programming</b><br><br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="60"/><br><br>
+<td align="center" width="170">
+<br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="65"/>
+<br><br>
 <b>Kotlin</b>
+<br>
+<sub>Programming</sub>
+<br><br>
 </td>
 
-<td align="center" width="160">
-<h3>🌐</h3>
-<b>Web</b><br><br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60"/><br><br>
+<td align="center" width="170">
+<br>
+<img src="https://img.shields.io/badge/COBOL-005CA5?style=flat-square&logoColor=white" height="65"/>
+<br><br>
+<b>COBOL</b>
+<br>
+<sub>Programming</sub>
+<br><br>
+</td>
+
+<td align="center" width="170">
+<br>
+<img src="https://img.shields.io/badge/ASM-525252?style=flat-square&logoColor=white" height="65"/>
+<br><br>
+<b>Assembly</b>
+<br>
+<sub>Programming</sub>
+<br><br>
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center" width="170">
+<br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="65"/>
+<br><br>
 <b>HTML5</b>
+<br>
+<sub>Web Development</sub>
+<br><br>
 </td>
 
-<td align="center" width="160">
-<h3>🎨</h3>
-<b>Web</b><br><br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60"/><br><br>
+<td align="center" width="170">
+<br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="65"/>
+<br><br>
 <b>CSS3</b>
+<br>
+<sub>Web Development</sub>
+<br><br>
 </td>
 
-</tr>
-
-<tr>
-
-<td align="center" width="160">
-<h3>⚡</h3>
-<b>Web</b><br><br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60"/><br><br>
+<td align="center" width="170">
+<br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="65"/>
+<br><br>
 <b>JavaScript</b>
+<br>
+<sub>Web Development</sub>
+<br><br>
 </td>
 
-<td align="center" width="160">
-<h3>🐘</h3>
-<b>Web</b><br><br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="60"/><br><br>
+<td align="center" width="170">
+<br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="65"/>
+<br><br>
 <b>PHP</b>
+<br>
+<sub>Web Development</sub>
+<br><br>
 </td>
 
-<td align="center" width="160">
-<h3>🗄️</h3>
-<b>Database</b><br><br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60"/><br><br>
+<td align="center" width="170">
+<br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="65"/>
+<br><br>
 <b>MySQL</b>
-</td>
-
-<td align="center" width="160">
-<h3>📊</h3>
-<b>Database</b><br><br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="60"/><br><br>
-<b>SQL</b>
-</td>
-
-<td align="center" width="160">
-<h3>🔌</h3>
-<b>Hardware</b><br><br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="60"/><br><br>
-<b>Arduino</b>
+<br>
+<sub>Database</sub>
+<br><br>
 </td>
 
 </tr>
 
 <tr>
 
-<td align="center" width="160">
-<h3>📡</h3>
-<b>Hardware</b><br><br>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/embeddedc/embeddedc-original.svg" width="60"/><br><br>
+<td align="center" width="170">
+<br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="65"/>
+<br><br>
+<b>SQL</b>
+<br>
+<sub>Database</sub>
+<br><br>
+</td>
+
+<td align="center" width="170">
+<br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="65"/>
+<br><br>
+<b>Arduino</b>
+<br>
+<sub>Hardware</sub>
+<br><br>
+</td>
+
+<td align="center" width="170">
+<br>
+<img src="https://raw.githubusercontent.com/espressif/esp-adf/release/v2.x/docs/_static/ESP32-P4.svg" width="65"/>
+<br><br>
 <b>ESP32</b>
+<br>
+<sub>Hardware</sub>
+<br><br>
 </td>
 
-<td align="center" width="160">
-<h3>🎨</h3>
-<b>Design</b><br><br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="60"/><br><br>
+<td align="center" width="170">
+<br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="65"/>
+<br><br>
 <b>Figma</b>
+<br>
+<sub>Design</sub>
+<br><br>
 </td>
 
-<td align="center" width="160">
-<h3>🔧</h3>
-<b>Tools</b><br><br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60"/><br><br>
+<td align="center" width="170">
+<br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="65"/>
+<br><br>
 <b>Git</b>
+<br>
+<sub>Tools</sub>
+<br><br>
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center" width="170">
+<br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="65"/>
+<br><br>
+<b>GitHub</b>
+<br>
+<sub>Tools</sub>
+<br><br>
+</td>
+
+<td align="center" width="170">
+<br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="65"/>
+<br><br>
+<b>VS Code</b>
+<br>
+<sub>Tools</sub>
+<br><br>
 </td>
 
 </tr>
 </table>
 
 </div>
+
 
 
 <div align="left">
