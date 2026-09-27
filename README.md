@@ -45,26 +45,6 @@ My goal is that one day my code will help the world, and that I will evolve as a
 <br><br>
 </td>
 
-<td align="center" width="170">
-<br>
-<img src="https://img.shields.io/badge/COBOL-005CA5?style=flat-square&logoColor=white" height="65"/>
-<br><br>
-<b>COBOL</b>
-<br>
-<sub>Programming</sub>
-<br><br>
-</td>
-
-<td align="center" width="170">
-<br>
-<img src="https://img.shields.io/badge/ASM-525252?style=flat-square&logoColor=white" height="65"/>
-<br><br>
-<b>Assembly</b>
-<br>
-<sub>Programming</sub>
-<br><br>
-</td>
-
 </tr>
 
 <tr>
