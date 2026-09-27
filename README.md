@@ -14,161 +14,103 @@ My goal is that one day my code will help the world, and that I will evolve as a
 
 <table>
 <tr>
-<td align="center" width="160">
 
-### 💻
-
-**Programming**
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="55"/>
-
-**C++**
-
+<td align="center" width="180">
+<h3>💻</h3>
+<b>Programming</b><br><br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="60"/><br><br>
+<b>C++</b>
 </td>
 
-<td align="center" width="160">
-
-### ☕
-
-**Programming**
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="55"/>
-
-**Java**
-
+<td align="center" width="180">
+<h3>☕</h3>
+<b>Programming</b><br><br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60"/><br><br>
+<b>Java</b>
 </td>
 
-<td align="center" width="160">
-
-### 🟣
-
-**Programming**
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="55"/>
-
-**Kotlin**
-
+<td align="center" width="180">
+<h3>🟣</h3>
+<b>Programming</b><br><br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="60"/><br><br>
+<b>Kotlin</b>
 </td>
+
+<td align="center" width="180">
+<h3>🌐</h3>
+<b>Web</b><br><br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60"/><br><br>
+<b>HTML5</b>
+</td>
+
 </tr>
 
 <tr>
-<td align="center" width="160">
 
-### 🌐
-
-**Web**
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="55"/>
-
-**HTML5**
-
+<td align="center" width="180">
+<h3>🎨</h3>
+<b>Web</b><br><br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60"/><br><br>
+<b>CSS3</b>
 </td>
 
-<td align="center" width="160">
-
-### 🎨
-
-**Web**
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="55"/>
-
-**CSS3**
-
+<td align="center" width="180">
+<h3>⚡</h3>
+<b>Web</b><br><br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60"/><br><br>
+<b>JavaScript</b>
 </td>
 
-<td align="center" width="160">
-
-### ⚡
-
-**Web**
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="55"/>
-
-**JavaScript**
-
+<td align="center" width="180">
+<h3>🐘</h3>
+<b>Web</b><br><br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="60"/><br><br>
+<b>PHP</b>
 </td>
+
+<td align="center" width="180">
+<h3>🗄️</h3>
+<b>Database</b><br><br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60"/><br><br>
+<b>MySQL</b>
+</td>
+
 </tr>
 
 <tr>
-<td align="center" width="160">
 
-### 🐘
-
-**Web**
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="55"/>
-
-**PHP**
-
+<td align="center" width="180">
+<h3>📊</h3>
+<b>Database</b><br><br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="60"/><br><br>
+<b>SQL</b>
 </td>
 
-<td align="center" width="160">
-
-### 🗄️
-
-**Database**
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="55"/>
-
-**MySQL**
-
+<td align="center" width="180">
+<h3>🔌</h3>
+<b>Hardware</b><br><br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="60"/><br><br>
+<b>Arduino</b>
 </td>
 
-<td align="center" width="160">
-
-### 📊
-
-**Database**
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="55"/>
-
-**SQL**
-
+<td align="center" width="180">
+<h3>🎨</h3>
+<b>Design</b><br><br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="60"/><br><br>
+<b>Figma</b>
 </td>
+
+<td align="center" width="180">
+<h3>🔧</h3>
+<b>Tools</b><br><br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60"/><br><br>
+<b>Git</b>
+</td>
+
 </tr>
-
-<tr>
-<td align="center" width="160">
-
-### 🔌
-
-**Hardware**
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="55"/>
-
-**Arduino**
-
-</td>
-
-<td align="center" width="160">
-
-### 🎨
-
-**Design**
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="55"/>
-
-**Figma**
-
-</td>
-
-<td align="center" width="160">
-
-### 🔧
-
-**Tools**
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="55"/>
-
-**Git**
-
-</td>
-</tr>
-
 </table>
 
 </div>
-
 
 
 <div align="left">
