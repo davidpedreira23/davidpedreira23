@@ -100,7 +100,7 @@ My goal is that one day my code will help the world, and that I will evolve as a
 
 <td align="center" width="180">
 <br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqldeveloper/sqldeveloper-original.svg" width="50"/>
 <br><br>
 <b>SQL</b>
 <br>
@@ -110,7 +110,7 @@ My goal is that one day my code will help the world, and that I will evolve as a
 
 <td align="center" width="180">
 <br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/espressif/espressif-original.svg" width="50"/>
+<img src="https://raw.githubusercontent.com/espressif/espressif-ide/master/espressif-ide-feature/resources/espressif.svg" width="50"/>
 <br><br>
 <b>ESP32</b>
 <br>
