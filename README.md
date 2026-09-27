@@ -7,7 +7,6 @@
 ### 🚀 About Me
 
 My goal is that one day my code will help the world, and that I will evolve as a person.
-
 ### 🛠️ Technologies & Tools
 
 <div align="center">
@@ -15,127 +14,9 @@ My goal is that one day my code will help the world, and that I will evolve as a
 <table>
 <tr>
 
-<td align="center" width="170">
+<td align="center" width="180">
 <br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="65"/>
-<br><br>
-<b>C++</b>
-<br>
-<sub>Programming</sub>
-<br><br>
-</td>
-
-<td align="center" width="170">
-<br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="65"/>
-<br><br>
-<b>Java</b>
-<br>
-<sub>Programming</sub>
-<br><br>
-</td>
-
-<td align="center" width="170">
-<br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="65"/>
-<br><br>
-<b>Kotlin</b>
-<br>
-<sub>Programming</sub>
-<br><br>
-</td>
-
-<td align="center" width="170">
-<br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cobol/cobol-original.svg" width="65"/>
-<br><br>
-<b>COBOL</b>
-<br>
-<sub>Programming</sub>
-<br><br>
-</td>
-
-<td align="center" width="170">
-<br>
-<img src="https://svgicons.com/img/270362/assembly.svg" width="65"/>
-<br><br>
-<b>Assembly</b>
-<br>
-<sub>Programming</sub>
-<br><br>
-</td>
-
-</tr>
-
-<tr>
-
-<td align="center" width="170">
-<br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="65"/>
-<br><br>
-<b>HTML5</b>
-<br>
-<sub>Web Development</sub>
-<br><br>
-</td>
-
-<td align="center" width="170">
-<br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="65"/>
-<br><br>
-<b>CSS3</b>
-<br>
-<sub>Web Development</sub>
-<br><br>
-</td>
-
-<td align="center" width="170">
-<br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="65"/>
-<br><br>
-<b>JavaScript</b>
-<br>
-<sub>Web Development</sub>
-<br><br>
-</td>
-
-<td align="center" width="170">
-<br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="65"/>
-<br><br>
-<b>PHP</b>
-<br>
-<sub>Web Development</sub>
-<br><br>
-</td>
-
-<td align="center" width="170">
-<br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="65"/>
-<br><br>
-<b>MySQL</b>
-<br>
-<sub>Database</sub>
-<br><br>
-</td>
-
-</tr>
-
-<tr>
-
-<td align="center" width="170">
-<br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="65"/>
-<br><br>
-<b>SQL</b>
-<br>
-<sub>Database</sub>
-<br><br>
-</td>
-
-<td align="center" width="170">
-<br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="65"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="70"/>
 <br><br>
 <b>Arduino</b>
 <br>
@@ -143,80 +24,50 @@ My goal is that one day my code will help the world, and that I will evolve as a
 <br><br>
 </td>
 
-<td align="center" width="170">
+<td align="center" width="180">
 <br>
-<img src="https://raw.githubusercontent.com/espressif/esp-adf/release/v2.x/docs/_static/ESP32-P4.svg" width="65"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="70"/>
 <br><br>
-<b>ESP32</b>
+<b>Java</b>
 <br>
-<sub>Hardware</sub>
-<br><br>
-</td>
-
-<td align="center" width="170">
-<br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="65"/>
-<br><br>
-<b>Figma</b>
-<br>
-<sub>Design</sub>
+<sub>Programming</sub>
 <br><br>
 </td>
 
-<td align="center" width="170">
+<td align="center" width="180">
 <br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="65"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="70"/>
 <br><br>
-<b>Git</b>
+<b>C++</b>
 <br>
-<sub>Tools</sub>
-<br><br>
-</td>
-
-</tr>
-
-<tr>
-
-<td align="center" width="170">
-<br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="65"/>
-<br><br>
-<b>GitHub</b>
-<br>
-<sub>Tools</sub>
+<sub>Programming</sub>
 <br><br>
 </td>
 
-<td align="center" width="170">
+<td align="center" width="180">
 <br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="65"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="70"/>
 <br><br>
-<b>VS Code</b>
+<b>MySQL</b>
 <br>
-<sub>Tools</sub>
+<sub>Database</sub>
 <br><br>
 </td>
 
-<td align="center" width="170">
+<td align="center" width="180">
 <br>
-&nbsp;
-</td>
-
-<td align="center" width="170">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="70"/>
+<br><br>
+<b>PHP</b>
 <br>
-&nbsp;
-</td>
-
-<td align="center" width="170">
-<br>
-&nbsp;
+<sub>Web Development</sub>
+<br><br>
 </td>
 
 </tr>
 </table>
 
 </div>
-
 
 
 
