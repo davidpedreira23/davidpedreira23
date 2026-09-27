@@ -12,27 +12,160 @@ My goal is that one day my code will help the world, and that I will evolve as a
 
 <div align="center">
 
-#### 💻 Programming Languages
+<table>
+<tr>
+<td align="center" width="160">
 
-<a href="#"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="55"></a> <a href="#"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" height="55"></a> <a href="#"><img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" height="55"></a>
+### 💻
 
-<br><br>
+**Programming**
 
-#### 🌐 Web Development
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="55"/>
 
-<a href="#"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="55"></a> <a href="#"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="55"></a> <a href="#"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="55"></a> <a href="#"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" height="55"></a>
+**C++**
 
-<br><br>
+</td>
 
-#### 🗄️ Databases
+<td align="center" width="160">
 
-<a href="#"><img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" height="55"></a> <a href="#"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="55"></a>
+### ☕
 
-<br><br>
+**Programming**
 
-#### 🎨 Software & Design
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="55"/>
 
-<a href="#"><img src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white" height="55"></a> <a href="#"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" height="55"></a> <a href="#"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="55"></a>
+**Java**
+
+</td>
+
+<td align="center" width="160">
+
+### 🟣
+
+**Programming**
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="55"/>
+
+**Kotlin**
+
+</td>
+</tr>
+
+<tr>
+<td align="center" width="160">
+
+### 🌐
+
+**Web**
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="55"/>
+
+**HTML5**
+
+</td>
+
+<td align="center" width="160">
+
+### 🎨
+
+**Web**
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="55"/>
+
+**CSS3**
+
+</td>
+
+<td align="center" width="160">
+
+### ⚡
+
+**Web**
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="55"/>
+
+**JavaScript**
+
+</td>
+</tr>
+
+<tr>
+<td align="center" width="160">
+
+### 🐘
+
+**Web**
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="55"/>
+
+**PHP**
+
+</td>
+
+<td align="center" width="160">
+
+### 🗄️
+
+**Database**
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="55"/>
+
+**MySQL**
+
+</td>
+
+<td align="center" width="160">
+
+### 📊
+
+**Database**
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="55"/>
+
+**SQL**
+
+</td>
+</tr>
+
+<tr>
+<td align="center" width="160">
+
+### 🔌
+
+**Hardware**
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="55"/>
+
+**Arduino**
+
+</td>
+
+<td align="center" width="160">
+
+### 🎨
+
+**Design**
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="55"/>
+
+**Figma**
+
+</td>
+
+<td align="center" width="160">
+
+### 🔧
+
+**Tools**
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="55"/>
+
+**Git**
+
+</td>
+</tr>
+
+</table>
 
 </div>
 
