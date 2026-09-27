@@ -21,9 +21,6 @@ My goal is that one day my code will help the world, and that I will evolve as a
 
 ---
 
-
-![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=davidpedreira23&layout=compact&theme=radical)
-
 <div align="left">
   <a href="https://github.com/davidteixeira23" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
