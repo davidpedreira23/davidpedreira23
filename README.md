@@ -175,30 +175,8 @@ My goal is that one day my code will help the world, and that I will evolve as a
 
 </tr>
 
-<tr>
 
-<td align="center" width="170">
-<br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="65"/>
-<br><br>
-<b>GitHub</b>
-<br>
-<sub>Tools</sub>
-<br><br>
-</td>
 
-<td align="center" width="170">
-<br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="65"/>
-<br><br>
-<b>VS Code</b>
-<br>
-<sub>Tools</sub>
-<br><br>
-</td>
-
-</tr>
-</table>
 
 </div>
 
