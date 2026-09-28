@@ -6,7 +6,7 @@
 
 ### 🚀 About Me
 
-My goal is that one day my code will help the world, and that I will evolve as a person.
+My goal is that one day my code will help the world, and that I will evolve as a person
 <!--
 ### 🛠️ Technologies & Tools
 
